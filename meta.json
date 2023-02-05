@@ -1,0 +1,211 @@
+{
+  "about": {
+    "homepage": "https://www.ladle.dev",
+    "github": "https://github.com/tajo/ladle",
+    "version": 1
+  },
+  "stories": {
+    "icon--menu": {
+      "name": "Menu",
+      "levels": [
+        "Icon"
+      ],
+      "locStart": 5,
+      "locEnd": 5,
+      "filePath": "src/components/Icon.stories.tsx",
+      "meta": {}
+    },
+    "icon--color": {
+      "name": "Color",
+      "levels": [
+        "Icon"
+      ],
+      "locStart": 6,
+      "locEnd": 11,
+      "filePath": "src/components/Icon.stories.tsx",
+      "meta": {}
+    },
+    "spinner--normal": {
+      "name": "Normal",
+      "levels": [
+        "Spinner"
+      ],
+      "locStart": 3,
+      "locEnd": 3,
+      "filePath": "src/components/Spinner.stories.tsx",
+      "meta": {}
+    },
+    "typography--heading--simple": {
+      "name": "Simple",
+      "levels": [
+        "Typography",
+        "Heading"
+      ],
+      "locStart": 4,
+      "locEnd": 13,
+      "filePath": "src/components/Typography--heading.stories.tsx",
+      "meta": {}
+    },
+    "typography--heading--seperate-heading-and-level": {
+      "name": "Seperate heading and level",
+      "levels": [
+        "Typography",
+        "Heading"
+      ],
+      "locStart": 15,
+      "locEnd": 37,
+      "filePath": "src/components/Typography--heading.stories.tsx",
+      "meta": {}
+    },
+    "form--form-group--with-input": {
+      "name": "With input",
+      "levels": [
+        "Form",
+        "Form group"
+      ],
+      "locStart": 4,
+      "locEnd": 22,
+      "filePath": "src/components/form/Form--form-group.stories.tsx",
+      "meta": {}
+    },
+    "form--radio--normal": {
+      "name": "Normal",
+      "levels": [
+        "Form",
+        "Radio"
+      ],
+      "locStart": 3,
+      "locEnd": 3,
+      "filePath": "src/components/form/Form--radio.stories.tsx",
+      "meta": {}
+    },
+    "form--radio--checked": {
+      "name": "Checked",
+      "levels": [
+        "Form",
+        "Radio"
+      ],
+      "locStart": 4,
+      "locEnd": 4,
+      "filePath": "src/components/form/Form--radio.stories.tsx",
+      "meta": {}
+    },
+    "form--radio--focused": {
+      "name": "Focused",
+      "levels": [
+        "Form",
+        "Radio"
+      ],
+      "locStart": 5,
+      "locEnd": 5,
+      "filePath": "src/components/form/Form--radio.stories.tsx",
+      "meta": {}
+    },
+    "form--radio--focused-checked": {
+      "name": "Focused checked",
+      "levels": [
+        "Form",
+        "Radio"
+      ],
+      "locStart": 6,
+      "locEnd": 8,
+      "filePath": "src/components/form/Form--radio.stories.tsx",
+      "meta": {}
+    },
+    "form--text-input--normal": {
+      "name": "Normal",
+      "levels": [
+        "Form",
+        "Text input"
+      ],
+      "locStart": 3,
+      "locEnd": 3,
+      "filePath": "src/components/form/Form--text-input.stories.tsx",
+      "meta": {}
+    },
+    "form--text-input--focused": {
+      "name": "Focused",
+      "levels": [
+        "Form",
+        "Text input"
+      ],
+      "locStart": 4,
+      "locEnd": 4,
+      "filePath": "src/components/form/Form--text-input.stories.tsx",
+      "meta": {}
+    },
+    "form--text-input--has-error": {
+      "name": "Has error",
+      "levels": [
+        "Form",
+        "Text input"
+      ],
+      "locStart": 5,
+      "locEnd": 5,
+      "filePath": "src/components/form/Form--text-input.stories.tsx",
+      "meta": {}
+    },
+    "form--text-input--has-error-focused": {
+      "name": "Has error focused",
+      "levels": [
+        "Form",
+        "Text input"
+      ],
+      "locStart": 6,
+      "locEnd": 6,
+      "filePath": "src/components/form/Form--text-input.stories.tsx",
+      "meta": {}
+    },
+    "dropdown--normal": {
+      "name": "Normal",
+      "levels": [
+        "Dropdown"
+      ],
+      "locStart": 8,
+      "locEnd": 16,
+      "filePath": "src/components/ui/Dropdown.stories.tsx",
+      "meta": {}
+    },
+    "form-integration--2-rows-table--normal": {
+      "name": "Normal",
+      "levels": [
+        "Form integration",
+        "2 rows table"
+      ],
+      "locStart": 67,
+      "locEnd": 77,
+      "filePath": "src/components/core/hooked_field/Form-integration--2-rows-table.stories.tsx",
+      "meta": {}
+    },
+    "hooked-checkbox--normal": {
+      "name": "Normal",
+      "levels": [
+        "Hooked checkbox"
+      ],
+      "locStart": 12,
+      "locEnd": 27,
+      "filePath": "src/components/core/hooked_field/HookedCheckbox.stories.tsx",
+      "meta": {}
+    },
+    "hooked-radio--normal": {
+      "name": "Normal",
+      "levels": [
+        "Hooked radio"
+      ],
+      "locStart": 12,
+      "locEnd": 25,
+      "filePath": "src/components/core/hooked_field/HookedRadio.stories.tsx",
+      "meta": {}
+    },
+    "hooked-select--normal": {
+      "name": "Normal",
+      "levels": [
+        "Hooked select"
+      ],
+      "locStart": 4,
+      "locEnd": 19,
+      "filePath": "src/components/core/hooked_field/HookedSelect.stories.tsx",
+      "meta": {}
+    }
+  }
+}

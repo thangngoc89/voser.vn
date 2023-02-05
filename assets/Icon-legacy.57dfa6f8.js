@@ -1,0 +1,1 @@
+System.register(["./index-legacy.675748b1.js"],(function(e,r){"use strict";var n;return{setters:[e=>{n=e.j}],execute:function(){e("S",(function({name:e,prefix:r="icon",color:t="#333",className:s="h-6 w-6",...c}){return n("svg",{...c,className:s,"aria-hidden":"true",children:n("use",{href:`#${r}-${e}`,fill:"currentColor"})})}))}}}));

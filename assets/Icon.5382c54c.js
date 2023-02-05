@@ -1,0 +1,1 @@
+import{j as r}from"./index.87c977da.js";function l({name:o,prefix:n="icon",color:s="#333",className:e="h-6 w-6",...c}){const i=`#${n}-${o}`;return r("svg",{...c,className:e,"aria-hidden":"true",children:r("use",{href:i,fill:"currentColor"})})}export{l as S};

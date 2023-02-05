@@ -1,0 +1,1 @@
+import{c as d}from"./clsx.m.256e9345.js";import{j as b}from"./index.87c977da.js";function p({error:o=!1,name:r,value:s,register:t,...a}){const e=d("w-6 h-6 text-blue-600 bg-gray-100 voser-focus",{"border-2 border-gray-300":!o},{"border-4 border-red-500":o}),c=t?Object.assign(a,t(r)):a;return b("input",{id:`${r}_${s}`,className:e,type:"radio",value:s,...c})}export{p as R};
