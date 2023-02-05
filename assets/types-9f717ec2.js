@@ -1,0 +1,1 @@
+import{t as n}from"./index-654a6f85.js";var r="Invariant failed";function i(e,a){if(!e)throw new Error(r)}function u(e){return["mau_giao","tieu_hoc","nguoi_lon"].includes(e)}function t(e){switch(e){case"mau_giao":return n`form.name.mau_giao`;case"tieu_hoc":return n`form.name.tieu_hoc`;case"nguoi_lon":return n`form.name.nguoi_lon`}}export{u as a,i,t as s};
