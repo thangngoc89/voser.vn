@@ -1,0 +1,1 @@
+System.register(["./pocketbase-legacy-7a1413fe.js","./index-legacy-729ef95d.js"],(function(e,t){"use strict";var r,s;return{setters:[e=>{r=e.p},e=>{s=e.j}],execute:function(){e("loader",(()=>s(r.authStore?.model)))}}}));
