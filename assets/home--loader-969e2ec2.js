@@ -1,0 +1,1 @@
+import{p as r}from"./pocketbase-46b56a28.js";import{j as t}from"./index-33b61bf4.js";const e=()=>{var o;return r.authStore.isValid?t((o=r.authStore)==null?void 0:o.model):t(null)};export{e as loader};
