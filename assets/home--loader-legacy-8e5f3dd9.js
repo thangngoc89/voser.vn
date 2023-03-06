@@ -1,0 +1,1 @@
+System.register(["./pocketbase-legacy-d584ed5d.js","./index-legacy-a6b9922c.js"],(function(e,t){"use strict";var s,r;return{setters:[e=>{s=e.i},e=>{r=e.j}],execute:function(){e("loader",(()=>r(s())))}}}));
