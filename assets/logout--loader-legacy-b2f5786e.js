@@ -1,0 +1,1 @@
+System.register(["./index-legacy-5b0f4730.js","./pocketbase-legacy-30e6144f.js"],(function(e,t){"use strict";var r,s,c,n;return{setters:[e=>{r=e.Q,s=e.t,c=e.r},e=>{n=e.p}],execute:function(){e("loader",(async()=>(n.authStore.clear(),r.info(s`notify.logged out`),c("/"))))}}}));
